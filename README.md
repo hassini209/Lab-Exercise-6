@@ -2,7 +2,7 @@
 ## DATE: 03.9.26 
 ## NAME: R CHITHRA
 ## REG NO: 212225220019
-## DEPT: BTECT IT
+## DEPT: BTECH IT
 # UX Ideation, User Stories, Scenarios, Flow Mapping & Information Architecture
 
 ## Aim
