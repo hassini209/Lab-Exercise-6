@@ -1,10 +1,5 @@
 # Lab-Exercise-6
-## DATE: 03.9.26 
-## NAME: R CHITHRA
-## REG NO: 212225220019
-## DEPT: BTECH IT
-# UX Ideation, User Stories, Scenarios, Flow Mapping & Information Architecture
-
+name : hassini k reg no: 212225040122
 ## Aim
 
 To generate UX solutions, create user stories, develop scenarios, design user flows, and organize information architecture.
